@@ -14,7 +14,7 @@ import { RNCamera } from 'react-native-camera';
 const defaultRectStyle = { height: 300, width: 300, borderWidth: 0, borderColor: '#000000', marginBottom: 0 };
 const defaultCornerStyle = { height: 32, width: 32, borderWidth: 6, borderColor: '#f37121' };
 const defaultScanBarStyle = { marginHorizontal: 8, borderRadius: 2, backgroundColor: '#f37121' };
-const defaultHintTextStyle = { color: '#fff', fontSize: 14, backgroundColor: 'transparent', marginTop: 32 };
+const defaultHintTextStyle = { color: '#fff', fontSize: 14, backgroundColor: 'transparent', marginTop: 32, fontFamily: 'Manrope-Regular' };
 
 /**
  * Create by Marno on 2019-08-19 18:32
