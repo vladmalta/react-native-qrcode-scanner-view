@@ -47,7 +47,7 @@ export class QRScannerRectView extends Component {
     isShowScanBar: true,
     isShowCorner: true,
     scanBarAnimateTime: 3000,
-    hintText: '将二维码/条码放入框内，即可自动扫描',
+    hintText: 'Place QR Code in window above to scan',
   };
   
   state = {
